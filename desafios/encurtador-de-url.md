@@ -52,3 +52,4 @@ salva no banco (`studos.com.br`), os critérios de aceitação são:
 
 - Ítens acima
 - Github Actions, Travis-CI ou outro serviço 
+- Coleção no Postman (também pode ser Swagger ou outro de sua preferência)
