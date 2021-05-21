@@ -29,19 +29,26 @@ salva no banco (`studos.com.br`), os critérios de aceitação são:
 - caso não seja encontrada ou expirada, retornar HTTP 404
 - caso seja encontrada e ainda dentro da validade, redirecionar com HTTP 302 ou 200
 
-### Ítens obrigatórios
+
+## O que esperamos
+
+### Desenvolvedor Júnior
 
 - Docker & Docker Compose 
 - Framework atual (Symfony, Laravel, Laminas, Zend e etc)
 - Documentação de como subir e utilizar a aplicação
 
-### Ítens desejáveis 
 
+### Desenvolvedor Pleno
+
+- Ítens acima
 - Testes unitários
 - Testes funcionais
-
-### Opcionais
-
-- Github Actions, Travis-CI ou outro serviço 
 - Seguir as PSRs
 - Design Pattern
+
+
+### Desenvolvedor Sênior
+
+- Ítens acima
+- Github Actions, Travis-CI ou outro serviço 
