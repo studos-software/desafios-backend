@@ -35,7 +35,7 @@ salva no banco (`studos.com.br`), os critérios de aceitação são:
 ### Desenvolvedor Júnior
 
 - Docker & Docker Compose 
-- Framework atual (Symfony, Laravel, Laminas, e etc)
+- Framework atual (Symfony, Laravel, Laminas, etc)
 - Documentação de como subir e utilizar a aplicação
 
 
@@ -59,4 +59,3 @@ salva no banco (`studos.com.br`), os critérios de aceitação são:
 
 ### Diferenciais (para todos os níveis)
 - Aplicação dos princípios SOLID
-- Collection do postman 
